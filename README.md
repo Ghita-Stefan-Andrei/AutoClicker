@@ -22,6 +22,3 @@
 <li><p>"Set Curosr Position" must be checked to be able to select position and for the Auto-Clicker to use them</p></li>
 <li><p>You can select from up to 3 buttons for startin/stopping the app and settin position, just select the combination you want and press "Set Controls"</p></li>
 </ul>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ghita-Stefan-Andrei/AutoClicker/master/Auto-Clicker%20Interface.PNG" >
-</div>
